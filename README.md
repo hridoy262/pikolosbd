@@ -1,1 +1,1 @@
-https://hridoy262.github.io/pikolosbd/index.php
+https://hridoy262.github.io/pikolosbd/
